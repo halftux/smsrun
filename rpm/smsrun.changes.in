@@ -1,0 +1,14 @@
+# Rename this file as sftest.changes to include changelog
+# entries in your RPM file.
+#
+# Add new changelog entries following the format below.
+# Add newest entries to the top of the list.
+# Separate entries from eachother with a blank line.
+
+# * date Author's Name <author's email> version-release
+# - Summary of changes
+* Fri Oct 04 2019 Halftux <> 0.0.1-1
+- Initial release
+
+
+

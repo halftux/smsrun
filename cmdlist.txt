@@ -1,0 +1,1 @@
+testcmd	uname -a > /home/nemo/Documents/kernel.txt
